@@ -56,3 +56,6 @@
 - `/broadcast متن` - ارسال پیام همگانی
 - `/ban user_id` - مسدود کردن کاربر
 - `/unban user_id` - رفع مسدودی کاربر
+
+##chanelltelegram
+https://t.me/meov2ray/
