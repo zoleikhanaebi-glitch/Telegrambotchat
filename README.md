@@ -58,5 +58,5 @@
 - `/unban user_id` - رفع مسدودی کاربر
 
 ## chanelltelegram and my bot
-|🔎mychanell | https://t.me/meov2ray/|
-|🧷mybot | https://t.me/meov2raybot/|
+| 🔎mychanell | https://t.me/meov2ray/ |
+| 🧷mybot | https://t.me/meov2raybot/ |
