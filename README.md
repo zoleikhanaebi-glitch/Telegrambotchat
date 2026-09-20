@@ -57,5 +57,6 @@
 - `/ban user_id` - مسدود کردن کاربر
 - `/unban user_id` - رفع مسدودی کاربر
 
-## chanelltelegram
-https://t.me/meov2ray/
+## chanelltelegram and my bot
+🔎mychanell | https://t.me/meov2ray/
+🧷mybot | https://t.me/meov2raybot/
